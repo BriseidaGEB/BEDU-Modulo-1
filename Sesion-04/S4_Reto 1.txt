@@ -1,0 +1,28 @@
+#Fecha, nombre y texto de cada comentario.
+{
+ project: {
+  _id: 0,
+  date: 1,
+  name: 1,
+  text: 1
+ }
+}
+
+#Título, elenco y año de cada película.
+{
+ project: {
+  _id: 0,
+  title: 1,
+  year: 1,
+  cast: 1
+ }
+}
+
+#Nombre y contraseña de cada usuario.
+{
+ project: {
+  _id: 0,
+  name: 1,
+  password: 1
+ }
+}
